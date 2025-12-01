@@ -1,0 +1,20 @@
+Python
+
+venv/
+pycache/
+*.pyc
+
+React / Node
+
+frontend/node_modules/
+frontend/build/
+.DS_Store
+
+Environment Variables (Security)
+
+.env
+
+IDE settings
+
+.vscode/
+.idea/

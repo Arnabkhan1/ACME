@@ -1,0 +1,7 @@
+flask
+requests
+flask-cors
+networkx
+matplotlib
+scikit-learn
+numpy
